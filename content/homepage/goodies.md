@@ -10,21 +10,38 @@ That is the important part, right? You want to know what I can do for you. This 
 
 ## Hand Towels
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Christmas print hand towels.
 
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+Size: 15" x 24"
+
+![Christmas Towels](images/towel.webp)
 
 ---
 
 ## Mugs
 
-Did you see the picture above? I can show you how to go from
+Available in Red (as seen in the picture below) and white.
 
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
+Capacity: 325ml
+
+![Printed Mugs](images/red-mug.webp)
 
 ---
 
 ## Coasters
+
+Square and Round Coasters.
+
+Sizes:
+ - Square : 4" x 4"
+ - Round  : 3.5" diameter
+
+![Christmas Coasters](images/coaster.webp)
+
+---
+
+## Goodie Bag
+
 Want to learn more about my services?
 
-Check out [this page](services) I created. It carries a lot more details...
+![Christmas Coasters](images/goodie-bag.webp)

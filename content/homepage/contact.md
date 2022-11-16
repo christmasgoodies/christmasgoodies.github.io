@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Enquire Now"
 weight: 4
 header_menu: true
 ---
