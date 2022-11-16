@@ -4,7 +4,6 @@ weight: 2
 header_menu: true
 ---
 
-Christmas goodies to bring in the holiday cheer!
 
 ---
 
@@ -20,7 +19,7 @@ Size : 15" x 24"
 
 ## Mugs
 
-Available in Red (as seen in the picture below) and white.
+Available in Red and White.
 
 Capacity : 325ml
 
@@ -40,9 +39,9 @@ Sizes:
 
 ---
 
-## Goodie Bag
+## Goody Bags
 
-Christmas Goodie Bags.
+Christmas Goody Bags.
 
 Size : 9.5" x 8"
 

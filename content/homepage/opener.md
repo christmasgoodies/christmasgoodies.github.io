@@ -3,8 +3,11 @@ title: "Welcome"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Hi there!
+Christmas is just around the corner, celebrate by spreading joy and cheer. Gift your loved ones something to cherish this festive season. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+Orders close by __5th December 2022__ to enable our well wishers have them in time for the Season of Christmas. 
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+Scroll to view our Christmas Goodies 
+
+
