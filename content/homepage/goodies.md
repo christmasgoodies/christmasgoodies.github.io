@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Christmas goodies to bring in the holiday cheer!
 
 ---
 
@@ -12,7 +12,7 @@ That is the important part, right? You want to know what I can do for you. This 
 
 Christmas print hand towels.
 
-Size: 15" x 24"
+Size : 15" x 24"
 
 ![Christmas Towels](images/towel.webp)
 
@@ -22,9 +22,9 @@ Size: 15" x 24"
 
 Available in Red (as seen in the picture below) and white.
 
-Capacity: 325ml
+Capacity : 325ml
 
-![Printed Mugs](images/red-mug.webp)
+![Printed Mugs](images/mugs.webp)
 
 ---
 
@@ -42,6 +42,8 @@ Sizes:
 
 ## Goodie Bag
 
-Want to learn more about my services?
+Christmas Goodie Bags.
+
+Size : 9.5" x 8"
 
 ![Christmas Coasters](images/goodie-bag.webp)
