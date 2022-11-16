@@ -29,7 +29,7 @@ favicon = "images/favicon.png"
 # services like Twitter or Slack want to generate a preview of a link to your site.
 # See https://gohugo.io/templates/internal#twitter-cards and
 # https://gohugo.io/templates/internal#open-graph.
-images = ["images/cover-image.jpg"]
+images = ["images/new-bg.webp"]
 
 # Another "title" :-). This one is used as the site_name on the Hugo's internal
 # opengraph structured data template.
@@ -41,5 +41,5 @@ title = "Trendy Christmas Goodies"
 # hidedesignbyline = true
 
 [params.meta]
-keywords = "christmas, goodies, gifts, santa, holiday, gifting, raindeer"
+keywords = "christmas, goodies, gifts, santa, holiday, gifting, cheer, holly, stocking, gift, snowflake, trendy"
 
