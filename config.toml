@@ -20,7 +20,7 @@ title = "Trendy Christmas Goodies"
 copyright = "© Glen Mascarenhas"
 
 # The "description" of your website. This is used in the meta data of your generated html.
-description = "Spread the holiday joy with some trendy Christmas goodies for firends and family"
+description = "Spread the holiday joy with some trendy Christmas goodies for friends and family"
 
 # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
 favicon = "images/favicon.png"
