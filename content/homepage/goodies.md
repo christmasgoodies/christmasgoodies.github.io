@@ -13,7 +13,7 @@ Christmas print hand towels.
 
 Size : 15" x 24"
 
-![Christmas Towels](images/towel.webp)
+![Christmas Towels](images/christmas-towel.webp)
 
 ---
 
