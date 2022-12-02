@@ -15,6 +15,8 @@ Size: 12" x 14" x 4"
 
 ![Christmas Jute Bag](images/jute-bag.webp)
 
+---
+
 ## Christmas Hamper
 
 Trendy Christmas Hamper
@@ -22,6 +24,8 @@ Trendy Christmas Hamper
 Size: 6.5" x 8.5"
 
 ![Christmas Hamper](images/hamper.webp)
+
+---
 
 ## Hand Towels
 
