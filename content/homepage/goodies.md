@@ -44,6 +44,15 @@ Size: 6.5" x 8.5"
 ![Christmas Hamper](images/cup_green.webp)
 
 ---
+## Christmas Cups Red
+
+Trendy Christmas Hamper
+
+Size: 6.5" x 8.5"
+
+![Christmas Hamper](images/cup_red_full.webp)
+
+---
 
 ## Christmas Cups Blue
 
