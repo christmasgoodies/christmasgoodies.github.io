@@ -7,59 +7,71 @@ header_menu: true
 
 ---
 
-## Jute Bag 
+## Christmas Bottle 
 
-A Christmas themed Jute Bag
+Christmas Bottle
 
 Size: 12" x 14" x 4"
 
-![Christmas Jute Bag](images/jute-bag.webp)
+![Christmas Jute Bag](images/bottle.webp)
 
 ---
 
-## Christmas Hamper
+## Christmas Cups 1
 
 Trendy Christmas Hamper
 
 Size: 6.5" x 8.5"
 
-![Christmas Hamper](images/hamper.webp)
+![Christmas Hamper](images/cups_1.webp)
+
+---
+## Christmas Cups Red
+
+Trendy Christmas Hamper
+
+Size: 6.5" x 8.5"
+
+![Christmas Hamper](images/cup_red.webp)
+
+---
+## Christmas Cups Green
+
+Trendy Christmas Hamper
+
+Size: 6.5" x 8.5"
+
+![Christmas Hamper](images/cup_green.webp)
 
 ---
 
-## Hand Towels
+## Christmas Cups Blue
 
-Christmas print hand towels.
+Trendy Christmas Hamper
 
-*Now available in multiple prints!*
+Size: 6.5" x 8.5"
 
-Size : 15" x 24"
-
-__*\*Limited Stock Available!*__
-
-![Christmas Towels](images/towels2.webp)
+![Christmas Hamper](images/cup_blue.webp)
 
 ---
 
-## Mugs
+## Coasters Red
 
 Available in Red and White.
 
 Capacity : 325ml
 
-![Printed Mugs](images/mugs.webp)
+![Printed Mugs](images/coaster_red.webp)
 
 ---
 
-## Coasters
+## Coasters Green
 
-Square and Round Coasters.
+Available in Red and White.
 
-Sizes:
- - Square : 4" x 4"
- - Round  : 3.5" diameter
+Capacity : 325ml
 
-![Christmas Coasters](images/coaster.webp)
+![Printed Mugs](images/coaster_green.webp)
 
 ---
 
@@ -69,4 +81,12 @@ Christmas Goody Bags.
 
 Size : 9.5" x 8"
 
-![Christmas Coasters](images/goodie-bag.webp)
+![Christmas Coasters](images/bag.webp)
+
+## Christmas Towel
+
+Christmas Goody Bags.
+
+Size : 9.5" x 8"
+
+![Christmas Coasters](images/towel.webp)
