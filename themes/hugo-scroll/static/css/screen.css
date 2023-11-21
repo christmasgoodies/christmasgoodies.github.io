@@ -185,7 +185,7 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  background-color: #ea2020;
+  background-color: #be4941;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
@@ -472,8 +472,8 @@ ul li {
   height: 100%;
   margin-bottom: 0rem;
   text-align: center;
-  color: #ea2020;
-  background: #b80135 no-repeat center center;
+  color: #be4941;
+  background: #be4941 no-repeat center center;
   background-size: cover;
 }
 
@@ -521,7 +521,7 @@ ul li {
   position: relative;
 }
 .post-holder.odd {
-  background: #b80135;
+  background: #be4941;
   color: white;
 }
 
@@ -686,6 +686,7 @@ a.fn-item.active {
   display: block;
   max-width: 100%;
   margin: 0 auto;
+  border-radius: 35px;
 }
 
 /* The author credit area after the post */

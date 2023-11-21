@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://www.christmasgoodies.in/"
 
 enableRobotsTXT = true
 canonifyURLs = true
@@ -12,7 +12,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Trendy Christmas Goodies"
+title = "Christmas Goodies"
 
 [params]
 # A "copyright"-line to be added at the bottom of the page.
@@ -20,7 +20,7 @@ title = "Trendy Christmas Goodies"
 copyright = "© Glen Mascarenhas"
 
 # The "description" of your website. This is used in the meta data of your generated html.
-description = "Spread the holiday joy with some trendy Christmas goodies for friends and family"
+description = "Spread the Holiday Cheer with our Christmas goodies for friends and family"
 
 # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
 favicon = "images/favicon.png"
@@ -41,5 +41,5 @@ title = "Trendy Christmas Goodies"
 # hidedesignbyline = true
 
 [params.meta]
-keywords = "christmas, goodies, gifts, santa, holiday, gifting, cheer, holly, stocking, gift, snowflake, trendy"
+keywords = "christmas, goodies, gifts, santa, holiday, gifting, cheer, holly, stocking, gift, snowflake, trendy, cups, coasters, towels, hampers"
 
