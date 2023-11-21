@@ -8,8 +8,8 @@ Christmas is just around the corner, celebrate by spreading joy and cheer. Gift 
 
 Orders close by __10th December 2023__ to enable our well wishers have them in time for the Season of Christmas. 
 
-Accepting orders for Mumbai and Goa!.
+Accepting orders for __Mumbai__ and __Goa!__.
 
-Scroll to view our Christmas Goodies 
+__Customisation available for orders above 5 pcs__
 
 

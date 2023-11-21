@@ -7,95 +7,77 @@ header_menu: true
 
 ---
 
-## Christmas Bottle 
+### Water Bottle 
 
-Christmas Bottle
+- Capacity: 600ml
 
-Size: 12" x 14" x 4"
 
-![Christmas Jute Bag](images/bottle.webp)
+![Water Bottle](images/bottle.webp)
+
+---
+
+### White Mug 
+- Capacity: 325ml
+
+
+![White Mug](images/cups_1.webp)
+
+---
+### Red Mug 
+- Capacity: 325ml
+
+![Red Mug](images/cup_red.webp)
 
 ---
 
-## Christmas Cups 1
+### Green Mug 
+- Capacity: 325ml
 
-Trendy Christmas Hamper
-
-Size: 6.5" x 8.5"
-
-![Christmas Hamper](images/cups_1.webp)
+![Green Mug](images/cup_blue.webp)
 
 ---
-## Christmas Cups Red
+### Green Multi Purpose Pot 
+- Capacity: 325ml
 
-Trendy Christmas Hamper
-
-Size: 6.5" x 8.5"
-
-![Christmas Hamper](images/cup_red.webp)
+![Multi Puropse Pot Green](images/cup_green.webp)
 
 ---
-## Christmas Cups Green
+### Red Multi Purpose Pot 
+- Capacity: 325ml
 
-Trendy Christmas Hamper
-
-Size: 6.5" x 8.5"
-
-![Christmas Hamper](images/cup_green.webp)
-
----
-## Christmas Cups Red
-
-Trendy Christmas Hamper
-
-Size: 6.5" x 8.5"
 
 ![Christmas Hamper](images/cup_red_full.webp)
 
 ---
 
-## Christmas Cups Blue
+## Red Coasters
 
-Trendy Christmas Hamper
+- Square Coasters: 4" x 4"
 
-Size: 6.5" x 8.5"
+- Round Costers: 3.5" diameter
 
-![Christmas Hamper](images/cup_blue.webp)
-
----
-
-## Coasters Red
-
-Available in Red and White.
-
-Capacity : 325ml
-
-![Printed Mugs](images/coaster_red.webp)
+![Red Coaster](images/coaster_red.webp)
 
 ---
 
-## Coasters Green
+## Green Coaster
 
-Available in Red and White.
+- Square Coasters: 4" x 4"
 
-Capacity : 325ml
+- Round Costers: 3.5" diameter
 
-![Printed Mugs](images/coaster_green.webp)
+![Green Coaster](images/coaster_green.webp)
 
 ---
 
-## Goody Bags
+## Goody Bag
 
-Christmas Goody Bags.
+- Size: 9.5" x 8"
 
-Size : 9.5" x 8"
+![Goody Bag](images/bag.webp)
 
-![Christmas Coasters](images/bag.webp)
+## Hand Towel
 
-## Christmas Towel
+- Size: 15" x 24"
 
-Christmas Goody Bags.
-
-Size : 9.5" x 8"
-
-![Christmas Coasters](images/towel.webp)
+![Christmas Towel](images/towel.webp)
