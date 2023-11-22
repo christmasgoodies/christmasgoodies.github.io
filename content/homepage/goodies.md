@@ -50,7 +50,7 @@ header_menu: true
 
 ---
 
-## Red Coasters
+### Red Coasters
 
 - Square Coasters: 4" x 4"
 
@@ -60,7 +60,7 @@ header_menu: true
 
 ---
 
-## Green Coaster
+### Green Coaster
 
 - Square Coasters: 4" x 4"
 
@@ -70,14 +70,43 @@ header_menu: true
 
 ---
 
-## Goody Bag
+### Goody Bag
 
 - Size: 9.5" x 8"
 
 ![Goody Bag](images/bag.webp)
 
-## Hand Towel
+---
+### Hand Towel
 
 - Size: 15" x 24"
 
 ![Christmas Towel](images/towel.webp)
+
+---
+### Red Hamper
+
+- Size: 8" x 6.5" x 8"
+
+![Red Hamper](images/red_hamper.webp)
+
+---
+### White Hamper
+
+- Size: 8" x 6.5" x 8"
+
+![Red Hamper](images/white_hamper.webp)
+
+---
+### Jute Bag - Wide
+
+- Size: 15" x 12" x 4"
+
+![Red Hamper](images/wide_jutebag.webp)
+
+---
+### Jute Bag - Tall
+
+- Size: 12" x 14" x 4"
+
+![Red Hamper](images/tall_jutebag.webp)

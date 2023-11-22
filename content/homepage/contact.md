@@ -13,3 +13,5 @@ header_menu: true
 {{<icon class="fa fa-whatsapp">}}&nbsp;[+91 9930675460 - Anevay](https://api.whatsapp.com/send?phone=919930675460)
 
 Get in touch to place your orders!
+
+__Customisation available for orders above 5 pcs__
