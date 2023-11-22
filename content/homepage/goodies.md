@@ -81,17 +81,19 @@ header_menu: true
 
 - Size: 15" x 24"
 
+__LIMITED STOCK__
+
 ![Christmas Towel](images/towel.webp)
 
 ---
-### Red Hamper
+### Hamper 1
 
 - Size: 8" x 6.5" x 8"
 
 ![Red Hamper](images/red_hamper.webp)
 
 ---
-### White Hamper
+### Hamper 2
 
 - Size: 8" x 6.5" x 8"
 
