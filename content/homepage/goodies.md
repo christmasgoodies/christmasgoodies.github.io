@@ -77,11 +77,11 @@ header_menu: true
 ![Goody Bag](images/bag.webp)
 
 ---
-### Hand Towel
+### ~~Hand Towel~~
 
 - Size: 15" x 24"
 
-__LIMITED STOCK__
+__SOLD OUT!!__
 
 ![Christmas Towel](images/towel.webp)
 
