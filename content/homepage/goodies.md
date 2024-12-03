@@ -7,108 +7,60 @@ header_menu: true
 
 ---
 
-### Water Bottle 
-
-- Capacity: 600ml
-
-
-![Water Bottle](images/bottle.webp)
-
----
-
-### White Mug 
-- Capacity: 325ml
+### Blue Hamper
+- @Rs. 650/-
 
 
-![White Mug](images/cups_1.webp)
-
----
-### Red Mug 
-- Capacity: 325ml
-
-![Red Mug](images/cup_red.webp)
+![Blue Hamper](images/blue_hamper.webp)
 
 ---
 
-### Green Mug 
-- Capacity: 325ml
+### Red Hamper
+- @Rs. 650/-
 
-![Green Mug](images/cup_blue.webp)
-
----
-### Green Multi Purpose Pot 
-- Capacity: 325ml
-
-![Multi Puropse Pot Green](images/cup_green.webp)
-
----
-### Red Multi Purpose Pot 
-- Capacity: 325ml
-
-
-![Christmas Hamper](images/cup_red_full.webp)
-
----
-
-### Red Coasters
-
-- Square Coasters: 4" x 4"
-
-- Round Costers: 3.5" diameter
-
-![Red Coaster](images/coaster_red.webp)
-
----
-
-### Green Coaster
-
-- Square Coasters: 4" x 4"
-
-- Round Costers: 3.5" diameter
-
-![Green Coaster](images/coaster_green.webp)
-
----
-
-### Goody Bag
-
-- Size: 9.5" x 8"
-
-![Goody Bag](images/bag.webp)
-
----
-### ~~Hand Towel~~
-
-- Size: 15" x 24"
-
-__SOLD OUT!!__
-
-![Christmas Towel](images/towel.webp)
-
----
-### Hamper 1
-
-- Size: 8" x 6.5" x 8"
 
 ![Red Hamper](images/red_hamper.webp)
 
 ---
-### Hamper 2
 
-- Size: 8" x 6.5" x 8"
+### Multipurpose Pot
+- @Rs. 750/-
 
-![Red Hamper](images/white_hamper.webp)
-
----
-### Jute Bag - Wide
-
-- Size: 15" x 12" x 4"
-
-![Red Hamper](images/wide_jutebag.webp)
+![Red Mug](images/multipurpose_pot.webp)
 
 ---
-### Jute Bag - Tall
 
-- Size: 12" x 14" x 4"
+### Blue Mug 
+- @Rs. 175/-
 
-![Red Hamper](images/tall_jutebag.webp)
+![Green Mug](images/blue_mug.webp)
+
+---
+
+### White Mug
+- @Rs. 150/-
+
+![Red Mug](images/white_mug.webp)
+
+---
+
+### Beer Mug
+- @Rs. 400/-
+
+
+![Beer Mug](images/beer_mug.webp)
+
+---
+
+### Jute Bag Small
+- @Rs. 130/-
+
+![Red Coaster](images/jutebag_small.webp)
+
+---
+
+### Jute Bag Large
+- @Rs. 150/-
+
+![Red Coaster](images/jutebag_large.webp)
+
