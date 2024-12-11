@@ -24,7 +24,7 @@ header_menu: true
 ---
 
 ### Multipurpose Pot
-- @Rs. 750/-
+- @Rs. 170/-
 
 ![Red Mug](images/multipurpose_pot.webp)
 
