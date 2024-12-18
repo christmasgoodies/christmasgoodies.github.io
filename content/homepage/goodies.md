@@ -44,6 +44,13 @@ header_menu: true
 
 ---
 
+### Green Mug
+- @Rs. 150/-
+
+![Red Mug](images/green_mug.webp)
+
+---
+
 ### Beer Mug
 - @Rs. 400/-
 
